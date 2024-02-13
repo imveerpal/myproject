@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+    height:100px;
+    width:100px;
+}
+#yellow{
+background: yellow;
+}
+#orange{
+background: orange;
+
+}
+#blue{
+background-color: blue;
+}
+#red{
+background-color: red;
+}
