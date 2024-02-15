@@ -47,14 +47,11 @@ position: relative;
     flex-direction: column; 
      justify-content: center;
      align-items: center; 
-     /* background-image: url(mybg.webp) ;  */
-    /* background-repeat: no-repeat; */
-
 }
 .othersection::before{
     content: "";
     position: absolute;
-    background: url(mybg.webp) no-repeat center center/cover;
+    background: url(mybgnew.webp) no-repeat center center/cover;
 height: 100%;
 width: 100%;
 z-index: -1;
@@ -75,7 +72,7 @@ opacity: 0.59;
 }
 .otherpage{
      margin-top: 50px; 
-background: #000;
+
     }
 .otherpage img{
     margin: 40px;
