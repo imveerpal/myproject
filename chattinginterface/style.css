@@ -1,0 +1,18 @@
+body{
+    display: flex;
+justify-content: center;
+margin-top: 40vh;
+}
+.form{
+    border: 2px solid purple;
+    width: 90vw;
+    height: 70vh;
+border-radius: 15px;
+background-image: url(chatpage.webp);
+background-size: cover;
+color:pink;
+}
+.mybutton{
+color:red;
+font-size: 4rem;
+}
