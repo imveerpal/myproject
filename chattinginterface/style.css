@@ -1,18 +1,28 @@
 body{
     display: flex;
 justify-content: center;
-margin-top: 40vh;
+align-items: center;
+background-color: aquamarine;
+margin-top: 4vh;
 }
 .form{
     border: 2px solid purple;
-    width: 90vw;
+    width: 50vw;
     height: 70vh;
 border-radius: 15px;
 background-image: url(chatpage.webp);
 background-size: cover;
 color:pink;
 }
-.mybutton{
-color:red;
-font-size: 4rem;
+#btn{
+ background-color: pink;
+ font-size: 1.5rem;
+ border-radius: 15px;   
+}
+.wholepage{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+
 }
